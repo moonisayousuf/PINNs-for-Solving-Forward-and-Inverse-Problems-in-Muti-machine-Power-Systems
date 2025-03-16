@@ -35,4 +35,4 @@ Repository Structure
  ┣ 📜 README.md                          # Documentation
 
  Related work
-The concept of PINNs was introduced by Raissi et al. (https://maziarraissi.github.io/PINNs/) and adapted to power systems by Misyris et al. (https://github.com/gmisy/Physics-Informed-Neural-Networks-for-Power-Systems) and (https://github.com/jbesty/PINN_system_identification). The presented code is inspired by these sources.
+The concept of PINNs was introduced by Raissi et al. (https://maziarraissi.github.io/PINNs/) and adapted to power systems by Misyris et al. (https://github.com/gmisy/Physics-Informed-Neural-Networks-for-Power-Systems) and Jochen et al. (https://github.com/jbesty/PINN_system_identification). The presented code is inspired by these sources.
